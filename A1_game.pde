@@ -8,7 +8,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(135, 206, 235);
 
   draw_player(mouseX);
 
